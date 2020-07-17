@@ -11,5 +11,5 @@ The best recommendation given for MTN to upgrade its infrastructure to a high-va
 
 # Installations
 To open the files, you will require:
-Python 3, Microsoft Excel, Microsoft Word.
+Python 3, Microsoft Excel, Microsoft Word and preferrably Jupyter Notebook.
 
